@@ -1,5 +1,7 @@
 CHANGELOG
 ---------
+- **December.28.12**:1.3.5
+  - Removed `has_rdoc` from `gemspec` file
 - **November.25.12**:1.3.4
   - Support for headers and footers for worksheets
   - bug fix: Properly escape hyperlink urls
